@@ -1,0 +1,9 @@
+body { background-color: #55ACEE; }
+
+.container { height: 100vh; margin: 0 auto; text-align: center; color: #fff; }
+
+button { margin: 20px; }
+
+a { text-decoration: none; border: 1px solid #fff; border-radius: 5px; padding: 10px 30px; color: #fff; width: 300px; height: 35px; }
+
+a:hover { text-decoration: none; }
